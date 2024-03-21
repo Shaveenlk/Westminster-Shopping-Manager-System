@@ -1,0 +1,5 @@
+C03  Blouse  5  100.0  S  red  clothing
+C05  shirt  20  700.0  L  white  clothing
+E01  iphone  3  345.0  apple  24  electronics
+E02  Legion  10  6789.0  Lenovo  14  electronics
+E06  Galaxy  6  567.0  Samsung  14  electronics
